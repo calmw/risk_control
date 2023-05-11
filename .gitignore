@@ -1,0 +1,4 @@
+.idea/
+/docs/note.md
+venv/
+log/logs.log
